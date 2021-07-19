@@ -1,2 +1,1 @@
-curl --location --request GET 'URL' \
---data-raw ''
+curl --location --request GET 'https://yts.am/api/v2/list_movies.json'
